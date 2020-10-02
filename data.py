@@ -1,5 +1,6 @@
-# from auto import Database
-#
+from auto import Database
+import math
+#Nepal Share market dataset from the api
 # class values:
 #         Database(-21.0, 'GLOBAL IME BANK LTD')
 #         Database(0.0, ' Sunrise Bank Debenture')
